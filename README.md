@@ -1,1 +1,56 @@
-# Discord-clone
+# 🎮 Discord Clone
+
+A **simple and responsive** Discord clone built using **HTML & CSS**. This project replicates the core UI of Discord, including the sidebar, chat window, and user profile section.
+
+---
+
+## 🚀 Features
+✅ **Fully Responsive Design** – Adapts to different screen sizes<br>
+✅ **Server & Channel Navigation** – Sidebar for easy access<br>
+✅ **Chat Window Layout** – Clean and structured message bubbles<br>
+✅ **User Profile Section** – Styled for a Discord-like experience
+
+---
+
+## 🛠️ Technologies Used
+🔹 **HTML5** – Semantic structure<br>
+🔹 **CSS3** – Flexbox & Grid for dynamic layouts
+
+---
+
+## 📸 Screenshots
+_(Add screenshots of your project here to showcase the UI)_
+
+---
+
+## 📥 Installation
+1️⃣ **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/discord-clone.git
+   ```
+2️⃣ **Navigate to the project folder:**
+   ```bash
+   cd discord-clone
+   ```
+3️⃣ **Open `index.html` in your browser.**
+
+---
+
+## 🤝 Contributing
+Feel free to **fork** this repository and submit **pull requests** for improvements or new features. Let's build something awesome together! 💡
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+
+## 📧 Contact
+For any questions, suggestions, or collaborations, reach out via:
+📩 **Email:** your-email@example.com  
+🐙 **GitHub:** [yourusername](https://github.com/yourusername)  
+💬 **Discord:** _your-discord-username_
+
+🚀 **Happy Coding!** 🎨
+
