@@ -18,11 +18,6 @@ A **simple and responsive** Discord clone built using **HTML & CSS**. This proje
 
 ---
 
-## 📸 Screenshots
-_(Add screenshots of your project here to showcase the UI)_
-
----
-
 ## 📥 Installation
 1️⃣ **Clone the repository:**
    ```bash
