@@ -43,6 +43,7 @@ This project is licensed under the **MIT License**.
 
 ## 📧 Contact
 For any questions, suggestions, or collaborations, reach out via:
+
 📩 **Email:** ks10204080@gmail.com  
 🐙 **GitHub:** [BitGladiator](https://github.com/BitGladiator)  
 
