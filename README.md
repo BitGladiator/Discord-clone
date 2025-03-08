@@ -43,9 +43,9 @@ This project is licensed under the **MIT License**.
 
 ## 📧 Contact
 For any questions, suggestions, or collaborations, reach out via:
-📩 **Email:** your-email@example.com  
-🐙 **GitHub:** [yourusername](https://github.com/yourusername)  
-💬 **Discord:** _your-discord-username_
+📩 **Email:** ks10204080@gmail.com  
+🐙 **GitHub:** [BitGladiator](https://github.com/BitGladiator)  
+
 
 🚀 **Happy Coding!** 🎨
 
