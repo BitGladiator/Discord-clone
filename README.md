@@ -17,7 +17,10 @@ A **simple and responsive** Discord clone built using **HTML & CSS**. This proje
 🔹 **CSS3** – Flexbox & Grid for dynamic layouts
 
 ---
+## 🌍 Live Demo
+[Click here to view the live demo](https://discord-dev-clone.vercel.app/)
 
+---
 ## 📥 Installation
 1️⃣ **Clone the repository:**
    ```bash
